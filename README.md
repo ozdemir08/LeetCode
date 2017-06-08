@@ -1,5 +1,7 @@
 ## LeetCode
 
+My codes for some problems in [Leet Code](http://leetcode.com)
+
 ### Solved problems
 1. Two sum up
 2. Add two numbers
