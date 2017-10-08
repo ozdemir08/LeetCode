@@ -15,7 +15,7 @@ public:
     }
     
 private:
-    int currentMaxPathSum = -1e9;
+    int currentMaxPathSum = INT_MIN;
     
     int maxChildSum(TreeNode* root){
         if(!root)
