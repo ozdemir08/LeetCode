@@ -49,4 +49,5 @@ Missing entries will be added.
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/208.%20Implement%20Trie%20(Prefix%20Tree)%20.cpp) | O() | O() | Medium 
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/239.%20Sliding%20Window%20Maximum%20.cpp) | O(N) | O(K) | Hard
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/295.%20Find%20Median%20from%20Data%20Stream%20%20.cpp) | O(logN), O(1) | O(1), O(1) | Hard
+[297. Serialize and Deserialize Binary Tree](leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/297.%20Serialize%20and%20Deserialize%20Binary%20Tree%20.cpp) | O(N), O(N^2) | O(N), O(N) | Hard
 
