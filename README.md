@@ -51,4 +51,4 @@ Missing entries will be added.
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/239.%20Sliding%20Window%20Maximum%20.cpp) | O(N) | O(K) | Hard
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/295.%20Find%20Median%20from%20Data%20Stream%20%20.cpp) | O(logN), O(1) | O(1), O(1) | Hard
 [297. Serialize and Deserialize Binary Tree](leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/297.%20Serialize%20and%20Deserialize%20Binary%20Tree%20.cpp) | O(N), O(N^2) | O(N), O(N) | Hard	
-
+[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix%20.cpp) | O(Klog(N))| O(N+K) | Medium	
