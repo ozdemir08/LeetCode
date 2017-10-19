@@ -13,6 +13,7 @@ Missing entries will be added.
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters%20.cpp) | O() | O() | __ 
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/5.%20Longest%20Palindromic%20Substring%20.cpp) | O() | O() | __ 
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/7.%20Reverse%20Integer.cpp) | O() | O() | __ 
+[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/10.%20Regular%20Expression%20Matching%20.cpp) | O(NM) | O(NM) | Hard 
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/discuss/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/11.%20Container%20With%20Most%20Water%20.cpp) | O(N) | O(1) | Medium
 [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List%20.cpp) | O() | O() | __ 
 [20. Valid Parantheses](https://leetcode.com/problems/valid-parentheses)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/20.%20Valid%20Parantheses.cpp) | O() | O() | __ 
