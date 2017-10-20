@@ -55,6 +55,7 @@ Missing entries will be added.
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/140.%20Word%20Break%20II%20.cpp) | O(N^2*log(M)) | O(N^2+M) | Hard 
 [146. LRU Cache](https://leetcode.com/problems/lru-cache)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/146.%20LRU%20Cache.cpp) | O() | O() | __ 
 [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp) | O() | O() | __ 
+[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp) | O(log N) | O(log N) | Medium 
 [179. Largest Number](https://leetcode.com/problems/largest-number/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/179.%20Largest%20Number%20.cpp) | O(NlogN) | O(1) | Medium 
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/207.%20Course%20Schedule%20.cpp) | O(N+M) | O(N+M) | Medium 
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/208.%20Implement%20Trie%20(Prefix%20Tree)%20.cpp) | O() | O() | Medium 
