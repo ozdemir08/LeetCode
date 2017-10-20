@@ -51,6 +51,7 @@ Missing entries will be added.
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/124.%20Binary%20Tree%20Maximum%20Path%20Sum%20.cpp) | O() | O() | __ 
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/127.%20Word%20Ladder%20.cpp) | O(M) | O(M) | Medium 
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/128.%20Longest%20Consecutive%20Sequence%20.cpp) | O() | O() | __ 
+[139. Word Break](https://leetcode.com/problems/word-break/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/139.%20Word%20Break%20.cpp) | O(N^2+M) | O(N+M) | Medium 
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/140.%20Word%20Break%20II%20.cpp) | O(N^2*log(M)) | O(N^2+M) | Hard 
 [146. LRU Cache](https://leetcode.com/problems/lru-cache)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/146.%20LRU%20Cache.cpp) | O() | O() | __ 
 [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp) | O() | O() | __ 
