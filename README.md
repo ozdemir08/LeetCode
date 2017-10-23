@@ -40,6 +40,7 @@ Missing entries will be added.
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/56.%20Merge%20Intervals.cpp) | O() | O() | __ 
 [66. Unique Paths](https://leetcode.com/problems/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/66.%20Unique%20Paths.cpp) | O() | O() | __ 
 [72. Edit Distance](https://leetcode.com/problems/edit-distance)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/72.%20Edit%20Distance.cpp) | O() | O() | __ 
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/75.%20Sort%20Colors%20.cpp) | O(N) | O(1) | Medium 
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/76.%20Minimum%20Window%20Substring%20.cpp) | O() | O() | __ 
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/84.%20Largest%20Rectangle%20in%20Histogram.cpp) | O(N), O(Nlog(N)) | O(N) | Hard 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/88.%20Merge%20Sorted%20Array.cpp) | O() | O() | __ 
@@ -68,6 +69,7 @@ Missing entries will be added.
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/295.%20Find%20Median%20from%20Data%20Stream%20%20.cpp) | O(logN), O(1) | O(1), O(1) | Hard
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/297.%20Serialize%20and%20Deserialize%20Binary%20Tree%20.cpp) | O(N), O(N^2) | O(N), O(N) | Hard	
 [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/310.%20Minimum%20Height%20Trees.cpp) | O(N) | O(N) | Medium	
+[322. Coin Change](https://leetcode.com/problems/coin-change/description/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/322.%20Coin%20Change%20.cpp) | O(NM) | O(M) | Medium	
 [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix%20.cpp) | O(NM) | O(NM) | Hard	
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/347.%20Top%20K%20Frequent%20Elements.cpp) | O(Nlog(K))| O(N) | Medium
 [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix%20.cpp) | O(Klog(N))| O(N+K) | Medium	
