@@ -44,6 +44,7 @@ Missing entries will be added.
 [72. Edit Distance](https://leetcode.com/problems/edit-distance)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/72.%20Edit%20Distance.cpp) | O() | O() | __ 
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/75.%20Sort%20Colors%20.cpp) | O(N) | O(1) | Medium 
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/76.%20Minimum%20Window%20Substring%20.cpp) | O() | O() | __ 
+[79. Word Search](https://leetcode.com/problems/word-search/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/79.%20Word%20Search%20.cpp) | O(NMK) | O(N^2) | Medium 
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/84.%20Largest%20Rectangle%20in%20Histogram.cpp) | O(N), O(Nlog(N)) | O(N) | Hard 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/88.%20Merge%20Sorted%20Array.cpp) | O() | O() | __ 
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/91.%20Decode%20Ways%20.cpp) | O(N) | O(N) | Medium 
