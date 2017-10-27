@@ -37,6 +37,7 @@ Missing entries will be added.
 [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/44.%20Wildcard%20Matching%20.cpp) | O(NM) | O(NM) | Hard 
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/49.%20Group%20Anagrams%20.cpp) | O(NMlogM) | O(NM) | Medium 
 [50. Pow(x,n)](https://leetcode.com/problems/powx-n)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/50.%20Pow(x%2C%20n).cpp) | O() | O() | __ 
+[51. N-Queens](https://leetcode.com/problems/n-queens/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/51.%20N-Queens%20.cpp) | O(N!) | O(N!) | Hard 
 [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/52.%20N-Queens%20II%20.cpp) | O(N^N) | O(N) | Hard 
 [55. Jump Game](https://leetcode.com/problems/jump-game)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/55.%20Jump%20Game%20.cpp) | O() | O() | __ 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/56.%20Merge%20Intervals.cpp) | O() | O() | __ 
