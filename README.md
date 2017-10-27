@@ -85,3 +85,4 @@ Missing entries will be added.
 [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/493.%20Reverse%20Pairs%20.cpp) | O(Nlog(N)) | O(Nlog(N)) | Hard	
 [632. Smallest Range](https://leetcode.com/problems/smallest-range/description/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/632.%20Smallest%20Range%20.cpp) | O(K*N) | O(K) | Hard	
 [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table%20.cpp) | O(Nlog(max-min)) | O(1) | Hard	
+[689. Maximum Sum of 3 Non-Overlapping Subarrays](leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays%20.cpp) | O(N) | O(N) | Hard
