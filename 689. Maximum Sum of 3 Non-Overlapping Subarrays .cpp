@@ -1,3 +1,8 @@
+/*
+    This solution uses O(N) space. But it can also be solved 
+    without DP, using only three pointers. 
+*/
+
 class Solution {
 private:
     vector< vector<int> > DP;
