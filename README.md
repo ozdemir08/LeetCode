@@ -6,6 +6,7 @@ My codes for some problems in [Leet Code](http://leetcode.com)
 #### TODO
 Missing entries will be added.
 
+
 |      Title     |   Solutions   | Time          | Space         | Difficulty  
 |----------------|---------------|---------------|---------------|-------------
 [1. Two sum up](https://leetcode.com/problems/two-sum)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/1.%20Two%20Sum.cpp) | O() | O() | __ 
