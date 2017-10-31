@@ -33,6 +33,7 @@ Missing entries will be added.
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array%20.cpp) | O() | O() | __ 
 [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/34.%20Search%20for%20a%20Range.cpp) | O() | O() | __ 
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/36.%20Valid%20Sudoku%20.cpp) | O() | O() | __ 
+[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/37.%20Sudoku%20Solver%20.cpp) | O(?) | O(?) | Hard 
 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/41.%20First%20Missing%20Positive%20.cpp) | O() | O() | __ 
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/42.%20Trapping%20Rain%20Water%20.cpp) | O(N) | O(N) | Hard 
 [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/44.%20Wildcard%20Matching%20.cpp) | O(NM) | O(NM) | Hard 
