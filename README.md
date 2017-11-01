@@ -3,8 +3,6 @@
 My codes for some problems in [Leet Code](http://leetcode.com)
 
 ### Solved problems
-#### TODO
-Missing entries will be added.
 
 
 |      Title     |   Solutions   | Time          | Space         | Difficulty  
@@ -42,30 +40,30 @@ Missing entries will be added.
 [50. Pow(x,n)](https://leetcode.com/problems/powx-n)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/50.%20Pow(x%2C%20n).cpp) | O() | O() | __ 
 [51. N-Queens](https://leetcode.com/problems/n-queens/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/51.%20N-Queens%20.cpp) | O(N!) | O(N!) | Hard 
 [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/52.%20N-Queens%20II%20.cpp) | O(N^N) | O(N) | Hard 
-[55. Jump Game](https://leetcode.com/problems/jump-game)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/55.%20Jump%20Game%20.cpp) | O() | O() | __ 
-[56. Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/56.%20Merge%20Intervals.cpp) | O() | O() | __ 
-[66. Unique Paths](https://leetcode.com/problems/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/66.%20Unique%20Paths.cpp) | O() | O() | __ 
-[72. Edit Distance](https://leetcode.com/problems/edit-distance)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/72.%20Edit%20Distance.cpp) | O() | O() | __ 
+[55. Jump Game](https://leetcode.com/problems/jump-game)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/55.%20Jump%20Game%20.cpp) | O(N) | O(1) | Medium 
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/56.%20Merge%20Intervals.cpp) | O(Nlog(N)) | O(N) | Medium 
+[66. Unique Paths](https://leetcode.com/problems/unique-paths)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/66.%20Unique%20Paths.cpp) | O(MN) | O(MN) | Medium 
+[72. Edit Distance](https://leetcode.com/problems/edit-distance)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/72.%20Edit%20Distance.cpp) | O(MN) | O(MN) | Hard 
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/75.%20Sort%20Colors%20.cpp) | O(N) | O(1) | Medium 
-[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/76.%20Minimum%20Window%20Substring%20.cpp) | O() | O() | __ 
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/76.%20Minimum%20Window%20Substring%20.cpp) | O(N) | O(1) | Hard 
 [79. Word Search](https://leetcode.com/problems/word-search/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/79.%20Word%20Search%20.cpp) | O(NMK) | O(N^2) | Medium 
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/84.%20Largest%20Rectangle%20in%20Histogram.cpp) | O(N), O(Nlog(N)) | O(N) | Hard 
-[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/88.%20Merge%20Sorted%20Array.cpp) | O() | O() | __ 
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/88.%20Merge%20Sorted%20Array.cpp) | O(N+M) | O(1) | Easy 
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/91.%20Decode%20Ways%20.cpp) | O(N) | O(N) | Medium 
-[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/94.%20Binary%20Tree%20Inorder%20Traversal%20.cpp) | O() | O() | __ 
-[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/98.%20Validate%20Binary%20Search%20Tree%20.cpp) | O() | O() | __ 
-[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal%20.cpp) | O() | O() | __ 
-[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal%20.cpp) | O() | O() | __ 
-[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20.cpp) | O() | O() | __ 
-[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/124.%20Binary%20Tree%20Maximum%20Path%20Sum%20.cpp) | O() | O() | __ 
+[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/94.%20Binary%20Tree%20Inorder%20Traversal%20.cpp) | O(N) | O(N) | Medium 
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/98.%20Validate%20Binary%20Search%20Tree%20.cpp) | O(N) | O(1) | Medium 
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal%20.cpp) | O(N) | O(N) | Medium 
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal%20.cpp) | O(N) | O(N) | Medium 
+[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20.cpp) | O(N) | O(1) | Medium 
+[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/124.%20Binary%20Tree%20Maximum%20Path%20Sum%20.cpp) | O(N) | O(N) | Hard 
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/127.%20Word%20Ladder%20.cpp) | O(M) | O(M) | Medium 
-[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/128.%20Longest%20Consecutive%20Sequence%20.cpp) | O() | O() | __ 
+[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/128.%20Longest%20Consecutive%20Sequence%20.cpp) | O(N) | O(N) | Hard 
 [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/132.%20Palindrome%20Partitioning%20II%20.cpp) | O(N^2) | O(N^2) | Hard 
 [139. Word Break](https://leetcode.com/problems/word-break/description/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/139.%20Word%20Break%20.cpp) | O(N^2+M) | O(N+M) | Medium 
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/140.%20Word%20Break%20II%20.cpp) | O(N^2*log(M)) | O(N^2+M) | Hard 
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/145.%20Binary%20Tree%20Postorder%20Traversal%20.cpp) | O(N) | O(N) | Hard 
-[146. LRU Cache](https://leetcode.com/problems/lru-cache)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/146.%20LRU%20Cache.cpp) | O() | O() | __ 
-[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp) | O() | O() | __ 
+[146. LRU Cache](https://leetcode.com/problems/lru-cache)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/146.%20LRU%20Cache.cpp) | O(1), O(1) | O(1), O(1) | Hard 
+[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp) | O(N^2log(N)) | O(N) | Hard 
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20.cpp) | O(log(N)) | O(1) | Medium
 [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II%20.cpp) | O(N) | O(1) | Hard 
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Code](https://github.com/ozdemir08/LeetCode/blob/master/149.%20Max%20Points%20on%20a%20Line.cpp) | O(log N) | O(log N) | Medium 
