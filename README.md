@@ -2,7 +2,7 @@
 
 My codes for some problems in [Leet Code](http://leetcode.com)
 
-### Solved problems
+### Solved problems	
 
 
 |      Title     |   Solutions   | Time          | Space         | Difficulty  
@@ -92,8 +92,9 @@ My codes for some problems in [Leet Code](http://leetcode.com)
 [403. Frog Jump](https://leetcode.com/problems/frog-jump/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/403.%20Frog%20Jump%20.cpp) | O(N^2) | O(N) | Hard
 [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/407.%20Trapping%20Rain%20Water%20II%20.cpp) | O(N^2 M) | O(NM) | Hard
 [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/410.%20Split%20Array%20Largest%20Sum%20.cpp) | O(N^2M) | O(NM) | Hard
+[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/446.%20Arithmetic%20Slices%20II%20-%20Subsequence%20.cpp) | O(N^2) | O(N^2) | Hard
 [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/460.%20LFU%20Cache%20.cpp) | O(1), O(1) | O(1), O(1) | Hard	
-[493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/493.%20Reverse%20Pairs%20.cpp) | O(Nlog(N)) | O(Nlog(N)) | Hard	
+[493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/493.%20Reverse%20Pairs%20.cpp) | O(Nlog(N)) | O(Nlog(N)) | Hard
 [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/629.%20K%20Inverse%20Pairs%20Array%20.cpp) | O(NK) | O(NK) | Hard	
 [632. Smallest Range](https://leetcode.com/problems/smallest-range/description/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/632.%20Smallest%20Range%20.cpp) | O(K*N) | O(K) | Hard	
 [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Code](https://github.com/ozdemir08/LeetCode/blob/master/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table%20.cpp) | O(Nlog(max-min)) | O(1) | Hard	
