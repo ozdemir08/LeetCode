@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
@@ -13,8 +14,8 @@ public:
   			else
   				right++;
   		}	      
+		return maxArea;
     }
-    return maxArea;
 };
 
 int main(){
