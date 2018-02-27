@@ -10,6 +10,10 @@ public:
 		vector<string> res;
 		vector< set<string> > visited(s.length()+1, set<string>());
 		dfs(s, 0, "", res, 0, visited);
+		int differentCases = 0;
+		for(int i=0;i<s.length()+1;i++)
+			differentCases += visited[i].size();
+		cout << differentCases << endl;
 		return res;
 	}
 	void dfs(string& s, int pos, string cur, vector<string>& res, int dif, vector< set<string> >& visited){
@@ -54,9 +58,10 @@ public:
 };
 
 int main(){
-	string s = ")(f";
+	string s = "()())()())";
 	Solution se;
 	vector<string> v = se.removeInvalidParentheses(s);
-	for(int i=0;i<v.size();i++)
-		cout << v[i] << endl;
+	cout << v.size() << endl;
+	// for(int i=0;i<v.size();i++)
+	// 	cout << v[i] << endl;
 }
